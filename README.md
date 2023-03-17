@@ -2,6 +2,7 @@
 
 University of Alberta, CMPUT 404 Lab 8 starter repository. Create a basic Phaser
 game with WebSocket connectivity for real time server to client communication.
+Modifications made by following Lab 8 - Websockets by Alexander Wong https://uofa-cmput404.github.io/lab-8-websockets.html
 
 ## Quickstart
 
